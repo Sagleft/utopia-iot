@@ -19,9 +19,9 @@ before build: ```sh prepare.sh```
 
 ## photos
 
-![photo](https://github.com/Sagleft/utopia-iot/raw/master/img/photo1.png)
-![photo](https://github.com/Sagleft/utopia-iot/raw/master/img/photo2.png)
-![photo](https://github.com/Sagleft/utopia-iot/raw/master/img/photo3.png)
+![photo](https://github.com/Sagleft/utopia-iot/raw/master/img/photo1.jpg)
+![photo](https://github.com/Sagleft/utopia-iot/raw/master/img/photo2.jpg)
+![photo](https://github.com/Sagleft/utopia-iot/raw/master/img/photo3.jpg)
 
 ## log example
 
