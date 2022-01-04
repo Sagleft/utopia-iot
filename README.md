@@ -26,3 +26,9 @@ before build: ```sh prepare.sh```
 ## log example
 
 ![log](https://github.com/Sagleft/utopia-iot/raw/master/img/comport_log.png)
+
+---
+
+![image](https://github.com/Sagleft/Sagleft/raw/master/image.png)
+
+### :globe_with_meridians: [Telegram канал](https://t.me/+VIvd8j6xvm9iMzhi)
